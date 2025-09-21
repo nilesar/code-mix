@@ -1,0 +1,10 @@
+torch
+transformers
+tokenizers
+sentencepiece
+datasets
+spacy
+spacy[transformers]
+tqdm
+numpy
+scikit-learn
